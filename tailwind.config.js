@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./src/**/*.jsx" , "C:\Users\asus\Downloads\sawtooth-wave.svg" ],
+  content: ["./src/**/*.jsx" ],
   theme: {
     extend: {},
   },
