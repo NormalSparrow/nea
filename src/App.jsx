@@ -46,7 +46,7 @@
             <img src= "/square-wave-icon-size_64.png" alt = "square"/>
           </button>
           <button class= " h-7 w-7 flex-auto rounded-full p-1 bg-slate-300 hover:bg-white transition" onClick={karplus}>
-            <img src= "/sine-wave-icon-size_64.png" alt = "karplus" /> {/* StringDecay button */} 
+            <img src= "/sine-wa ve-icon-size_64.png" alt = "karplus" /> {/* StringDecay button */} 
           </button>
         </div>
         <div>
